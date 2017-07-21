@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9dbb354b-3fb7-4469-8e84-a051d74f1fc1" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/af.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/img/header-separator.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/eu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/sample_posteddata.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/jquery-form/jquery.form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/en-ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/CHANGES.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/datafiltering.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/si.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/bg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/jquery-region/region.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap-datepicker/css/bootstrap-datepicker3.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/tabletools/dialogs/tableCell.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/readonly.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap-datepicker/css/bootstrap-datepicker.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/adapters/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/uploads/course_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/vi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/da.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/link/images/hidpi/anchor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/mn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/he.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/assets/uilanguages/languages.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/zh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sq.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/skins/moono/images/hidpi/refresh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/toolbarconfigurator/font/fontello.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/styles.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/wsc/dialogs/wsc_ie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/de-ch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/inlineall.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/nb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/magicline/magicline.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/ug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/th.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/skins/moono/images/lock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/font-awesome/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/hu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/artTemplate/template.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/gl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/advert_add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/gl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/et.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/km.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/build-config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/assets/posteddata.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/js/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/nb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/scayt/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap-datepicker/css/bootstrap-datepicker3.standalone.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/css/samples.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/eo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/ko.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/lt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/no.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/skins/moono/dialog_iequirks.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/skins/moono/dialog_ie8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/el.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/skins/moono/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/uilanguages.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/magicline/images/hidpi/icon-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/eo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/img/header-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/uploads/avatar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/magicline/images/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/replacebyclass.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/fo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/sr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/he.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/uicolor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/img/github-top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/uploads/default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/sl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/dialog/assets/my_dialog.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap-datepicker/css/bootstrap-datepicker3.standalone.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/link/dialogs/anchor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/en.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/en-gb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/htmlwriter/assets/outputforflash/swfobject.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/images/course.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/fr-ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/skins/moono/icons_hidpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/htmlwriter/assets/outputforflash/outputforflash.fla" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/da.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/km.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/image/images/noimage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/uploads/course.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/replacebycode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/less/base.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/font-awesome/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/toolbarconfigurator/lib/codemirror/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/course_add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/skins/moono/images/arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/uploads/monkey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/fo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/gu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/fa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/hi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/artTemplate/template-native.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/wsc/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/sample.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/pastefromword/filter/default.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/wsc/dialogs/wsc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/th.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/contents.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/tt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/toolbarconfigurator/font/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/skins/moono/editor_ie.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap-datepicker/js/bootstrap-datepicker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/inlinebycode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/image/dialogs/image.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/hr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/si.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/table/dialogs/table.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/toolbarconfigurator/font/fontello.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/sq.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/skins/moono/editor_iequirks.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/af.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/toolbarconfigurator/font/fontello.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/pt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/specialchar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/skins/moono/images/lock-open.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/id.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/magicline/images/icon-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/sv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/uploads/demo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap-datepicker/css/bootstrap-datepicker.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/link/dialogs/link.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/font-awesome/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/less/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/course_category_add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/teacher_list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap-datepicker/css/bootstrap-datepicker3.standalone.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/cs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/skins/moono/icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/htmlwriter/outputhtml.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/sv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/tt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/echarts/echarts.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/toolbarconfigurator/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/about/dialogs/hidpi/logo_ckeditor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/settings.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/toolbarconfigurator/font/config.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/id.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/th.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/pt-br.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/images/default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/ms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/course_topic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/sq.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/assets/inlineall/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/artTemplate/template-debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap-datepicker/js/bootstrap-datepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/ar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/cs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/echarts/echarts.simple.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/sk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/magicline/images/hidpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/js/sf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/skins/moono/editor_gecko.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/img/navigation-tip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/skins/moono/editor_ie7.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/hr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/km.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/fa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/cy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap-datepicker/locales/bootstrap-datepicker.zh-TW.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/ka.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/assets/sample.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/lv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ko.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/skins/moono/images/hidpi/close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/ug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/js/sample.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/skins/moono/dialog_ie.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap-datepicker/css/bootstrap-datepicker.standalone.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/tt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/less/mixin.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/jquery/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/nprogress/nprogress.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/divreplace.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/tabindex.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/toolbarconfigurator/js/toolbartextmodifier.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/jquery-cookie/jquery.cookie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/eu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/scayt/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/zh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/xhtmlstyle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/sl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/toolbarconfigurator/js/fulltoolbareditor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/jquery-region/jquery.region.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/fr-ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/htmlwriter/outputforflash.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/eu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/si.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/toolbarconfigurator/js/abstracttoolbarmodifier.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap-datepicker/css/bootstrap-datepicker3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/skins/moono/editor_ie8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/appendto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/skins/moono/images/hidpi/lock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap-datepicker/css/bootstrap-datepicker.standalone.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/lt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/zh-cn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/ku.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/wsc/dialogs/wsc.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/assets/outputxhtml/outputxhtml.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/ckeditor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/uploads/course_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/de-ch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/icons_hidpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/uploads/course_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/wsc/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/img/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/mk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/id.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/skins/moono/images/hidpi/lock-open.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/course_list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/clipboard/dialogs/paste.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/sr-latn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/bs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/ko.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/toolbarconfigurator/font/fontello.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/skins/moono/images/spinner.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/gl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/skins/moono/images/refresh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/vi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap-datepicker/css/bootstrap-datepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/inlinetextarea.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/toolbar/toolbar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/toolbarconfigurator/lib/codemirror/neo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/toolbarconfigurator/css/fontello.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/scayt/dialogs/options.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/course_add_step2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/is.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/dialog/dialogDefinition.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/en.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/sample.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/enterkey/enterkey.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/fi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/course_add_step1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/en-gb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/course_add_step3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/user_list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/skins/moono/images/close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/toolbarconfigurator/js/toolbarmodifier.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/wsc/dialogs/ciframe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/hu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/api.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/uk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/sk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/ku.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/scayt/dialogs/toolbar.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/uk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/less/index.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/nprogress/nprogress.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/fi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/about/dialogs/logo_ckeditor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/en-au.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/skins/moono/editor.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/artTemplate/template-native-debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/bg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap-datepicker/css/bootstrap-datepicker3.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/wysiwygarea/fullpage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/no.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/cy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/jquery.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/el.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/echarts/echarts.common.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/user_profile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/scayt/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/about/dialogs/about.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/link/images/anchor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/ar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/de-ch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/images/monkey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/et.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/uploads/course_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/skins/moono/dialog_ie7.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/teacher_add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/jquery/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/zh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap-datepicker/css/bootstrap-datepicker.standalone.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/skins/moono/dialog.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/repass.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/less/variable.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/ro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/pt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/dialog/dialog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/advert_list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/course_category.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/toolbarconfigurator/lib/codemirror/javascript.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/ajax.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/bn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/lv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/en-gb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/samples/old/htmlwriter/assets/outputforflash/outputforflash.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/plugins/specialchar/dialogs/lang/ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Admin/assets/ckeditor/lang/af.js" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dashboard/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1280">
+              <caret line="64" column="8" lean-forward="false" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1500643911000" expanded="true" signature="2347:2812" ph="{...}" />
+                <marker date="1500643911000" expanded="true" signature="2370:2426" ph="{&quot;text&quot;: 'ECharts 入门示例'...}" />
+                <marker date="1500643911000" expanded="true" signature="2477:2524" ph="{...}" />
+                <marker date="1500643911000" expanded="true" signature="2547:2623" ph="{...}" />
+                <marker date="1500643911000" expanded="true" signature="2672:2800" ph="[...]" />
+                <marker date="1500643911000" expanded="true" signature="2673:2799" ph="{&quot;name&quot;: '销量'...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dashboard/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="33" column="12" lean-forward="false" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+              <folding>
+                <marker date="1500642292000" expanded="true" signature="1233:1298" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/js/common.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aside.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/aside.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="36" column="14" lean-forward="false" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/views</find>
+      <find>保存</find>
+      <find>保 存</find>
+      <find>img</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>./views</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/advert/list.html" />
+        <option value="$PROJECT_DIR$/advert/add.html" />
+        <option value="$PROJECT_DIR$/course/add.html" />
+        <option value="$PROJECT_DIR$/course/topic.html" />
+        <option value="$PROJECT_DIR$/course_category/add.html" />
+        <option value="$PROJECT_DIR$/course_category/category.html" />
+        <option value="$PROJECT_DIR$/dashboard/repass.html" />
+        <option value="$PROJECT_DIR$/teacher/add.html" />
+        <option value="$PROJECT_DIR$/user/list.html" />
+        <option value="$PROJECT_DIR$/public/css.html" />
+        <option value="$PROJECT_DIR$/course/step1.html" />
+        <option value="$PROJECT_DIR$/course/step2.html" />
+        <option value="$PROJECT_DIR$/course/list.html" />
+        <option value="$PROJECT_DIR$/dashboard/index.html" />
+        <option value="$PROJECT_DIR$/dashboard/settings.html" />
+        <option value="$PROJECT_DIR$/course/step3.html" />
+        <option value="$PROJECT_DIR$/teacher/list.html" />
+        <option value="$PROJECT_DIR$/user/profile.html" />
+        <option value="$PROJECT_DIR$/public/js.html" />
+        <option value="$PROJECT_DIR$/public/aside.html" />
+        <option value="$PROJECT_DIR$/dashboard/login.html" />
+        <option value="$PROJECT_DIR$/static/js/common.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="709" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="configurable.group.appearance" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/js" />
+      <recent name="$PROJECT_DIR$/assets/artTemplate" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dbb354b-3fb7-4469-8e84-a051d74f1fc1" name="Default" comment="" />
+      <created>1500378005954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500378005954</updated>
+      <workItem from="1500378007184" duration="4520000" />
+      <workItem from="1500556194305" duration="3344000" />
+      <workItem from="1500597309233" duration="2632000" />
+      <workItem from="1500619384694" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11094000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="709" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14614774" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dashboard/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1280">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1500643911000" expanded="true" signature="2347:2812" ph="{...}" />
+            <marker date="1500643911000" expanded="true" signature="2370:2426" ph="{&quot;text&quot;: 'ECharts 入门示例'...}" />
+            <marker date="1500643911000" expanded="true" signature="2477:2524" ph="{...}" />
+            <marker date="1500643911000" expanded="true" signature="2547:2623" ph="{...}" />
+            <marker date="1500643911000" expanded="true" signature="2672:2800" ph="[...]" />
+            <marker date="1500643911000" expanded="true" signature="2673:2799" ph="{&quot;name&quot;: '销量'...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="33" column="12" lean-forward="false" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+          <folding>
+            <marker date="1500642292000" expanded="true" signature="1233:1298" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/aside.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="36" column="14" lean-forward="false" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1280">
+          <caret line="64" column="0" lean-forward="true" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1500643911000" expanded="true" signature="2347:2812" ph="{...}" />
+            <marker date="1500643911000" expanded="true" signature="2370:2426" ph="{&quot;text&quot;: 'ECharts 入门示例'...}" />
+            <marker date="1500643911000" expanded="true" signature="2477:2524" ph="{...}" />
+            <marker date="1500643911000" expanded="true" signature="2547:2623" ph="{...}" />
+            <marker date="1500643911000" expanded="true" signature="2672:2800" ph="[...]" />
+            <marker date="1500643911000" expanded="true" signature="2673:2799" ph="{&quot;name&quot;: '销量'...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="45" column="21" lean-forward="true" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+          <folding>
+            <marker date="1500642292000" expanded="true" signature="1233:1298" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/aside.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Volumes/BOOTCAMP/code/video2/12-博学谷/day02/day02/04-code/05-github+hexo实现个人博客.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/artTemplate/template.js" />
+    <entry file="file://$PROJECT_DIR$/static/less/base.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advert/add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advert/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="93" column="32" lean-forward="false" selection-start-line="93" selection-start-column="29" selection-end-line="93" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/step1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="26" column="32" lean-forward="false" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/step2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="26" column="32" lean-forward="false" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/step3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="26" column="32" lean-forward="false" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/topic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course_category/add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1060">
+          <caret line="53" column="36" lean-forward="false" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course_category/category.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="189" column="26" lean-forward="false" selection-start-line="189" selection-start-column="26" selection-end-line="189" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/repass.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="50" column="26" lean-forward="false" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/settings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="29" column="36" lean-forward="false" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="74" column="26" lean-forward="false" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="88" column="36" lean-forward="false" selection-start-line="88" selection-start-column="36" selection-end-line="88" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="60" lean-forward="false" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Volumes/BOOTCAMP/code/video2/12-博学谷/day02/day02/04-code/05-github+hexo实现个人博客.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="13" column="37" lean-forward="false" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/artTemplate/template-web.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1131">
+          <caret line="303" column="10" lean-forward="true" selection-start-line="303" selection-start-column="10" selection-end-line="303" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1280">
+          <caret line="64" column="8" lean-forward="false" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1500643911000" expanded="true" signature="2347:2812" ph="{...}" />
+            <marker date="1500643911000" expanded="true" signature="2370:2426" ph="{&quot;text&quot;: 'ECharts 入门示例'...}" />
+            <marker date="1500643911000" expanded="true" signature="2477:2524" ph="{...}" />
+            <marker date="1500643911000" expanded="true" signature="2547:2623" ph="{...}" />
+            <marker date="1500643911000" expanded="true" signature="2672:2800" ph="[...]" />
+            <marker date="1500643911000" expanded="true" signature="2673:2799" ph="{&quot;name&quot;: '销量'...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/aside.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="36" column="14" lean-forward="false" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="33" column="12" lean-forward="false" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+          <folding>
+            <marker date="1500642292000" expanded="true" signature="1233:1298" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -32,22 +32,7 @@
 
     <?php include "./views/public/js.html" ?>
     <script>
-        $(function () {
-            $("form").submit(function () {
-                $.ajax({
-                    url: "/api/login",
-                    type:"post",
-                    data:$(this).serialize(),
-                    success: function (data) {
-                        if (data.code === 200) {
-                            $.cookie("userInfo",JSON.stringify(data.result),{path:"/"});
-                            location.href = "/";
-                        }
-                    }
-                })
-                return false;
-            })
-        })
+        require(["../static/js/dashboard/login"])
 
     </script>
 
